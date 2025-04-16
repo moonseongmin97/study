@@ -23,5 +23,6 @@
 2025. 4. 14 - (OS) 스레드의 종류 (하드웨어, OS, 유저 , 그린 ,커널)
 2025. 4. 14 -(os) 커널이란 무엇인가? (예시 포함 아주 쉽게 설명)
 2025. 4. 15 -(OS) Thread Per Request vs Thread Pool 모델 정리
+2025. 4. 16 -(OS) Block I/O vs Non-block I/O (소켓 I/O 기반 설명)
      
       
