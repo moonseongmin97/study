@@ -55,7 +55,8 @@
 2025. 5. 20  - (데이터베이스) Lock, Two-Phase Locking(2PL), 데드락 정리(예제 포함)
 2025. 5. 20  - (데이터베이스) MVCC와 Isolation Level – Oracle 예제
 2025. 5. 22  - (데이터베이스) Repeatable Read에서 Write Skew가 발생하는 이유와 DBMS별 대응 전략 (예제 포함)
-
+2025. 5. 22  - (데이터베이스) DB 스키마 설계 주의사항
+2025. 5. 22  - (데이터베이스) 설계의 기초: Functional Dependency 정리
 
 
 코딩 테스트
