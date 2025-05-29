@@ -62,6 +62,7 @@
 2025. 5. 28  - (데이터베이스) 인덱스(Index) 개념 정리 (Oracle 중심)
 2025. 5. 29  - (데이터베이스) 파티셔닝(Partitioning),샤딩(Sharding),레플리케이션(Replication)
 2025. 5. 29  - (데이터베이스) DBCP (Database Connection Pool) 정리
+2025. 5. 29  - (데이터베이스) DBCP 사용 안했을때 단점... + DBCP 관련 정리
 
 
 
