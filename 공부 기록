@@ -96,6 +96,7 @@
 2025. 12.03  -(JAVA) 함수형 인터페이스 완벽 정리: 람다부터 스트림까지의 연결고리
 2025. 12.04  -[Java] I/O 스트림과 안전한 자원 관리: Try-with-Resources 완벽 분석  (Try-Catch-Finally 비교)
 2025. 12.15  -(자바) Apache Kafka 핵심 개념 (RabbitMQ <->Redis (Pub/Sub)	<->Apache Kafka 차이 )
+2026. 01.20  -(java) 패턴 매칭  instanceof 캐스팅 제거 (Flow Scoping 완벽 이해)
 
 
 코딩 테스트
